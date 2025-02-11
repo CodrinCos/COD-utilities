@@ -1,9 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <Description>WrapperBuilder</Description>
+    <Authors>cccod22</Authors>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <LangVersion>Latest</LangVersion>
+    <AssemblyName>COD</AssemblyName>
+    <Title>WrapperBuilder</Title>
+    <PackageId>COD</PackageId>
+    <PackageTags>COD</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
