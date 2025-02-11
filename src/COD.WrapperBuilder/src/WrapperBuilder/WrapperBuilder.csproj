@@ -6,7 +6,7 @@
     <Description>NuGet used for common functionality of
       dotnet applications. WrapperBuilder is used for ApplicationBuilder
       class to wrap it with extra functionality.</Description>
-    <PackageReadmeFile>../../../README.md</PackageReadmeFile>
+    <PackageReadmeFile>./README.md</PackageReadmeFile>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
