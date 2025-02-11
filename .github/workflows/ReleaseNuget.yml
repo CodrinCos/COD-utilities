@@ -22,5 +22,5 @@ jobs:
     - name: Publish NuGet packacges
       env:
         NUGET_API_KEY: ${{ secrets.NUGET_COD_KEY }}
-      run: chmod +x ./scripts/dotnet-pack.sh && ./scripts/dotnet-pack.sh
+      run: chmod +x ./scripts/pack.sh && ./scripts/pack.sh
       shell: bash
