@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <PackageId>COD.WrapperBuilder</PackageId>
+    <PackageId>cccod22.WrapperBuilder</PackageId>
     <Authors>cccod22</Authors>
     <Description>NuGet used for common functionality of
       dotnet applications. WrapperBuilder is used for ApplicationBuilder
@@ -10,9 +10,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <LangVersion>Latest</LangVersion>
-    <AssemblyName>COD.WrapperBuilder</AssemblyName>
-    <Title>COD.WrapperBuilder</Title>
-    <PackageTags>COD.WrapperBuilder</PackageTags>
+    <AssemblyName>cccod22.WrapperBuilder</AssemblyName>
+    <Title>cccod22.WrapperBuilder</Title>
+    <PackageTags>cccod22.WrapperBuilder</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
