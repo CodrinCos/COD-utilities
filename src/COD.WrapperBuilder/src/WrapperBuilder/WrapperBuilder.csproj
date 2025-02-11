@@ -13,6 +13,7 @@
     <AssemblyName>cccod22.WrapperBuilder</AssemblyName>
     <Title>cccod22.WrapperBuilder</Title>
     <PackageTags>cccod22.WrapperBuilder</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
